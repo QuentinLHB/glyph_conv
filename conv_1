@@ -1,1 +1,22 @@
-{"sender":"Quentin","timestamp":"2023-11-18T16:28:05.718790","glyphs":[[1,2]]}
+{
+  "messages": [
+    {
+      "sender": "NomUtilisateur",
+      "timestamp": "2022-07-01T12:00:00Z",
+      "glyphs": [
+        [1, 2],
+        [3],
+        [4, 5, 6]
+      ]
+    },
+    {
+      "sender": "AutreUtilisateur",
+      "timestamp": "2022-07-01T12:05:00Z",
+      "glyphs": [
+        [7],
+        [8, 9]
+      ]
+    }
+    // Ajoutez d'autres messages ici
+  ]
+}
